@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nyoba Anko</string>
+    <string name="hint_edit_text_create">Type something here</string>
+    <string name="accept_text">Accept</string>
+    <string name="delete_text">Delete</string>
+    <string name="settings">Settings</string>
+</resources>
